@@ -13,7 +13,7 @@
 
 ## ⚙️ Architecture Vision & Technical Profile
 
-I am a Computer Engineering student (Technology Faculty, **3.36 GPA**) currently expanding my academic boundaries at **Riga Technical University (RTU)**. 
+I am a Computer Engineering student deeply rooted at **Fırat University (Technology Faculty, 3.36 GPA) 🇹🇷** as my home institution. I am currently operating as an Erasmus+ exchange node, expanding my academic and infrastructure boundaries at **Riga Technical University (RTU) 🇱🇻** for the Spring '26 semester.
 
 My engineering philosophy revolves around **resiliency, security, and automation**. I don't just write application code; I design the underlying infrastructure that allows distributed systems to communicate securely and scale efficiently. My expertise sits at the intersection of advanced networking, cloud operations, and database optimization.
 
@@ -63,7 +63,9 @@ My engineering philosophy revolves around **resiliency, security, and automation
 
 ## 📡 Current Directives & Milestones
 
-> **📍 Node:** Riga, Latvia (Erasmus Exchange @ RTU)
+> **📍 Home Node:** Fırat University, Turkey 🇹🇷
+> <br>
+> **🌍 Active Deployment:** Riga, Latvia (Erasmus Exchange @ RTU) 🇱🇻
 > <br>
 > **🔄 Status:** Preparing for Artificial Intelligence (May 27) & Software Engineering (May 28) final exams.
 > <br>
