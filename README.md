@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&height=80&lines=System.out.println(%22Behzat+Medeni%22);;Network+Security+%26+Cloud+Architect;Database+Administrator+(DBA);Building+Scalable+Infrastructures" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1500&color=00FF41&center=true&vCenter=true&width=850&height=100&lines=ssh+admin%40behzat-medeni.network;Establishing+secure+tunnel+to+Riga_Node...;TCP%2FIP+Handshake%3A+SUCCESS;BGP+Routing+Table%3A+OPTIMIZED;Network+Security+%26+Cloud+Arch+Ready." alt="Network Boot Sequence" />
 
   <p align="center">
     <a href="https://www.linkedin.com/in/behzat-medeni-1bb278336/"><img src="https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&border=00FF41" alt="LinkedIn"></a>
@@ -44,7 +44,7 @@ My engineering philosophy revolves around **resiliency, security, and automation
 
 ---
 
-## 📊 Live Telemetry & GitHub Stats
+## 📊 Live Telemetry & System Stats
 
 <div align="center">
   <table border="0" style="border: none; background-color: transparent;">
@@ -65,7 +65,7 @@ My engineering philosophy revolves around **resiliency, security, and automation
 
 > **📍 Node:** Riga, Latvia (Erasmus Exchange @ RTU)
 > <br>
-> **🔄 Status:** Preparing for Artificial Intelligence & Software Engineering finals.
+> **🔄 Status:** Preparing for Artificial Intelligence (May 27) & Software Engineering (May 28) final exams.
 > <br>
 > **🚀 Upcoming:** Microsoft AI Innovators Summer Internship (2026).
 > <br>
