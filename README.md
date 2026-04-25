@@ -1,44 +1,59 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/behzatmedeni/behzatmedeni/main/matrix_dashboard.png" alt="Matrix Dashboard" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&height=80&lines=System.out.println(%22Behzat+Medeni%22);;Network+Security+%26+Cloud+Architect;Database+Administrator+(DBA);Building+Scalable+Infrastructures" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=00FF41&center=true&vCenter=true&width=800&height=80&lines=%3E_Initializing+Behzat's+Dashboard...;%3E_Network+Security+Node+Active;%3E_AWS+Cloud+Architecture+Monitoring;%3E_DBA_Session+Status%3A+Operational;%3E_Erasmus_Node%3A+RTU_Riga_Latvia" alt="Matrix Typing" />
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/behzat-medeni-1bb278336/"><img src="https://img.shields.io/badge/LinkedIn-Command_Center-00FF41?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=00FF41" alt="LinkedIn"></a>
-  <a href="mailto:behzatmedeni21@gmail.com"><img src="https://img.shields.io/badge/Email-Encrypted_Ping-00FF41?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=00FF41" alt="Email"></a>
-</p>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/behzat-medeni-1bb278336/"><img src="https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&border=00FF41" alt="LinkedIn"></a>
+    <a href="mailto:behzatmedeni21@gmail.com"><img src="https://img.shields.io/badge/Email-Ping_Me-000000?style=for-the-badge&logo=gmail&logoColor=00FF41&border=00FF41" alt="Email"></a>
+  </p>
 
 </div>
 
 ---
 
-## <img src="https://img.shields.io/badge/Console-System%20Logs-00FF41?style=flat-square&logo=gnutelecom&logoColor=00FF41&labelColor=000000" alt="Logs" />
+## ⚙️ Architecture Vision & Technical Profile
 
-I am a Computer Engineering Student (Fırat University 🇹🇷, **3.36 GPA**), currently operating as an Erasmus+ node at **Riga Technical University 🇱🇻**.
+I am a Computer Engineering student (Technology Faculty, **3.36 GPA**) currently expanding my academic boundaries at **Riga Technical University (RTU)**. 
 
-My core competencies lie in **architecting secure network infrastructures, managing enterprise-level database systems (DBA), and cloud deployments on AWS**. I code in **Java, Python, and Go** to automate operations and build distributed systems. Strictly Dark Mode, terminal-ready environment.
+My engineering philosophy revolves around **resiliency, security, and automation**. I don't just write application code; I design the underlying infrastructure that allows distributed systems to communicate securely and scale efficiently. My expertise sits at the intersection of advanced networking, cloud operations, and database optimization.
+
+### 🏗️ Core Engineering Domains
+
+* **Network Engineering & Security:** Deep understanding of the TCP/IP stack, routing protocols, and secure network design. I approach infrastructure with a "security-first" mindset, focusing on secure tunneling, VPC configurations, and firewall management.
+* **Cloud Architecture (AWS):** Architecting high-availability systems using core AWS services (EC2, RDS, S3, IAM). Focused on optimizing cloud resource allocation and implementing modern deployment pipelines.
+* **Database Administration (DBA):** Managing relational and NoSQL databases with an emphasis on query optimization, ACID compliance, data replication, and high-performance indexing strategies for enterprise environments.
+* **Software Development:** Leveraging **Go** for high-performance concurrent systems, **Java** for robust backend architectures, and **Python** for automation and AI-driven projects (such as my autonomous agricultural system, *HarvestGuard*).
 
 ---
 
-## <img src="https://img.shields.io/badge/Console-Telemetry%20Data-00FF41?style=flat-square&logo=grafana&logoColor=00FF41&labelColor=000000" alt="Telemetry" />
-
-Here is the real-time telemetry from my coding activities:
+## 🛠️ Stack & Infrastructure Elements
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=behzatmedeni&bg_color=000000&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true" alt="Matrix Activity Graph" width="100%" />
+  <br>
+  <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=java&logoColor=00FF41" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00FF41" alt="Python" />
+  <img src="https://img.shields.io/badge/Go-000000?style=flat-square&logo=go&logoColor=00FF41" alt="Go" />
+  <img src="https://img.shields.io/badge/Amazon_AWS-000000?style=flat-square&logo=amazon-aws&logoColor=00FF41" alt="AWS" />
+  <img src="https://img.shields.io/badge/Cisco_Networking-000000?style=flat-square&logo=cisco&logoColor=00FF41" alt="Networking" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=00FF41" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Linux_Server-000000?style=flat-square&logo=linux&logoColor=00FF41" alt="Linux" />
+  <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=00FF41" alt="Docker" />
+  <img src="https://img.shields.io/badge/Bash_Scripting-000000?style=flat-square&logo=gnu-bash&logoColor=00FF41" alt="Bash" />
+  <br><br>
 </div>
 
-<br>
+---
+
+## 📊 Live Telemetry & GitHub Stats
 
 <div align="center">
   <table border="0" style="border: none; background-color: transparent;">
     <tr>
       <td width="50%" align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=behzatmedeni&show_icons=true&theme=matrix&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=ffffff&bg_color=000000" alt="System Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=behzatmedeni&show_icons=true&theme=vue-dark&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=a9a9b3&bg_color=0D1117" alt="GitHub Stats" />
       </td>
       <td width="50%" align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=behzatmedeni&layout=compact&theme=matrix&hide_border=true&title_color=00FF41&text_color=ffffff&bg_color=000000" alt="Language Matrix" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=behzatmedeni&layout=compact&theme=vue-dark&hide_border=true&title_color=00FF41&text_color=a9a9b3&bg_color=0D1117" alt="Top Languages" />
       </td>
     </tr>
   </table>
@@ -46,30 +61,18 @@ Here is the real-time telemetry from my coding activities:
 
 ---
 
-## <img src="https://img.shields.io/badge/Console-Tech%20Arsenal-00FF41?style=flat-square&logo=supermicro&logoColor=00FF41&labelColor=000000" alt="Tech Stack" />
+## 📡 Current Directives & Milestones
+
+> **📍 Node:** Riga, Latvia (Erasmus Exchange @ RTU)
+> <br>
+> **🔄 Status:** Preparing for Artificial Intelligence & Software Engineering finals.
+> <br>
+> **🚀 Upcoming:** Microsoft AI Innovators Summer Internship (2026).
+> <br>
+> **🛠️ Active Build:** *HarvestGuard* (Autonomous obstacle detection & AI navigation).
+
+<br>
 
 <div align="center">
-  <br>
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=00FF41" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF41" alt="Python" />
-  <img src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=00FF41" alt="Go" />
-  <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=00FF41" alt="AWS" />
-  <img src="https://img.shields.io/badge/Networking-000000?style=for-the-badge&logo=cisco&logoColor=00FF41" alt="Networking" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF41" alt="Linux" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FF41" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00FF41" alt="Docker" />
-  <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=00FF41" alt="Bash" />
-  <br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=80&section=footer" width="100%"/>
 </div>
-
----
-
-## <img src="https://img.shields.io/badge/Console-Active%20Mission%20Log-00FF41?style=flat-square&logo=data-mechanics&logoColor=00FF41&labelColor=000000" alt="Mission Log" />
-
-```text
-[DATE]: 2026-04-26
-[LOG ]: RTU Riga Node: ACTIVE. Exchange program in progress.
-[BUILD]: HarvestGuard Nav Module v0.8: COMPILING :: No anomalies.
-[ALERT]: Preparing for Artificial Intelligence Final Exams :: May '26.
-[CONFIRM]: Microsoft AI Innovators Intern Summer 2026 :: CONFIRMED.
-[STATUS]: OPERATIONAL.
