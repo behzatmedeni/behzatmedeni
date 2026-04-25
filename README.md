@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/behzatmedeni/behzatmedeni/main/matrix_banner.png" alt="Matrix Giriş Bannerı" width="100%" />
+<img src="https://media.tenor.com/7A2n2f29A9QAAAAC/matrix.gif" alt="Matrix Rain" width="100%" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=00FF41&center=true&vCenter=true&width=800&height=80&lines=%3E_Initializing+Behzat's+Profile...;%3E_Network+Operations+Center+(NOC)+Active;%3E_AWS+Cloud+Architecture+Monitoring;%3E_DBA_Session+Status%3A+Operational;%3E_Erasmus_Node%3A+RTU_Riga_Latvia" alt="Matrix Typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=00FF41&center=true&vCenter=true&width=800&height=80&lines=%3E_Initializing+Behzat's+Profile...;%3E_Network+Operations+Center+(NOC)+Active;%3E_AWS+Cloud+Architecture+Monitoring;%3E_DBA_Session+Status%3A+Operational;%3E_Erasmus_Node%3A+RTU_Riga_Latvia" alt="Matrix Typing" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/behzat-medeni-1bb278336/"><img src="https://img.shields.io/badge/LinkedIn-Command_Center-00FF41?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=00FF41" alt="LinkedIn"></a>
