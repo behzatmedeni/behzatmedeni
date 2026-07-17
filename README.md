@@ -64,11 +64,8 @@ My engineering philosophy revolves around **resiliency, security, and automation
 ## 📡 Current Directives & Milestones
 
 > **📍 Home Node:** Fırat University, Turkey 🇹🇷
-> <br>
-> **🌍 Active Deployment:** Riga, Latvia (Erasmus Exchange @ RTU) 🇱🇻
-> <br>
-> **🔄 Status:** Preparing for Artificial Intelligence (May 27) & Software Engineering (May 28) final exams.
-> <br>
+> 
+> **🔄 Status:** Preparing for intership
 > **🚀 Upcoming:** Microsoft AI Innovators Summer Internship (2026).
 > <br>
 > **🛠️ Active Build:** *HarvestGuard* (Autonomous obstacle detection & AI navigation).
