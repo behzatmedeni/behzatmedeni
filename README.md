@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1500&color=00FF41&center=true&vCenter=true&width=850&height=100&lines=ssh+admin%40behzat-medeni.network;Establishing+secure+tunnel+to+Riga_Node...;TCP%2FIP+Handshake%3A+SUCCESS;BGP+Routing+Table%3A+OPTIMIZED;Network+Security+%26+Cloud+Arch+Ready." alt="Network Boot Sequence" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1500&color=00FF41&center=true&vCenter=true&width=850&height=100&lines=ssh+admin%40behzat-medeni.network;Establishing+secure+tunnel+to+Firat_Node...;TCP%2FIP+Handshake%3A+SUCCESS;BGP+Routing+Table%3A+OPTIMIZED;Network+Security+%26+Cloud+Arch+Ready." alt="Network Boot Sequence" />
 
   <p align="center">
     <a href="https://www.linkedin.com/in/behzat-medeni-1bb278336/"><img src="https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&border=00FF41" alt="LinkedIn"></a>
